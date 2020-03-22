@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "music-forest-abigo",
+  "private_key_id": "a8fb7d51ad0eed3669828b07fd31cec513ab063e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDa5tHW33gEfFVu\nDrVbxhCVXquykineoleJ5YbKfX/VuvWt+wL7krn7UlFRJTUkQH0ewNqZVGhMrXDY\nB8tX3KAlC5I88uU301+iW+P83gsmk1VeQ2VfXoJpuNoj+9LeRREgWDZvTLOl+vp3\nITkggEnux2O6kmjLlRF4JWMKISo1mdr+sUnrY2kUWZ9zp/oalwgIb9L/TnZwD1qP\nvdax5dkx5nvh4RvvfSyH4JtnqDf/L8oleHcPZReiPbNmk8LP9qtb9uFybLzVNx/x\nyyTsBMyr0sEgX5vvuJ9FFPptmMqk4kHWJbFMiYbreadvaz4lyVXTg8O1BT5l6OiD\nz0vLMYrRAgMBAAECggEAMqjegUrgXLFll/3hbObOqbLqK352ICcT+T7cTfpzXkRR\nXT1NOGmBjy9C0HO687PVAQwCyx9kr/Invmc3YRMXINunsWFJOP07EbkQb1H35KqO\nRC12xXZ62frEyTUbXQNA7mpb1rA6lzwZQP64WNQ3yAHvC5uckxjhnRuR6yM3wIV4\nI+gJ9IPZXwFgT/jj+ZPKKSOGdvMDzHEIw6rHYXBuGgEDhB3ytB77UTA3qxe/RaiG\nIgGYPEs9fYMzb77ljEl0Awiu+WDCmZYcJY4xAeIHQoDY00/xYs1nZFBIQSoLox/5\n14+8zeL1N5FlbSPAE/TjxEI7x/6v5mPCbm7aSBJukQKBgQD3Knp4rapZOfZll5dY\nPXcI74PWs5LHW+x0/C9iDKklR72Hx9fodpMMvIxFEV1OU/00sYglBMD03qg/EVsU\nDTrMT7BP9OyqLV0Gh/y6/8Khv0l6A6YQlo28KTy/0vczfStlc2YElm1KV+nomneC\nib6Mc/2gQcWuCqaId2XlNcDzBQKBgQDiubp1AZql+aJqKSWUZ0xkWqt7TOgUSvYY\n2+xilN4whe6YS8UQiDqYPPcNArO5QO6zdFCPHFsWlOtVmPvltvx6ZElevBupXDTP\nZ9e4qTcpCpzEZoXIRJzdtlu0bWQfE6s7Yxw7RpAKPC/OhSEmX2FlaihXs/QZzIEq\nyvN9lzvaXQKBgB9TQOZejEJ2uCW0CrhiQd3eDUV+yNF/cv54n8C7fgx9hSXaTCDo\nNkbc9qIiS0MMHgE5ptmaOqJOPeCQYIywCI2wY9YeYohG641SWtOQaqh5R+Sw5bEg\ng6IfT9W39SCPcpqO/5UBQ6Syc7DJMvBWaNIAOVrAOz+NlgGhsEZWg7fJAoGASPUd\nJAO1IQ24jtLYze2DrpNitRWlZMpOcOdsJLjk2tZuVcGkE1LTECQmF6Cz9rwHU+Xs\n+nBUe2rGY9AL1vrQOg5Fcd+0QwZx1AAFcd2561IH6kdXa39wvwOsdN3ypvFsW3rk\nHcryFOkTNTCv3yo4LCtB+h7lQNwHAJ84RUTCNN0CgYBwJsw9DWDvNuxcSzA7XATP\nqN0+zNKzqa7/tVPt7vicgqVlFWoFeWpJUhT/Juz20TnfIchTgp6OtAXb9j5HmFxl\ni4cICvj1OYd0nn/ipK02nqw5AJmtznc2TH7NQigvyoFsLGhz9Hl5QucRp8HJdYty\n9Isq4in8TjUfiD63enouMw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-mj72u@music-forest-abigo.iam.gserviceaccount.com",
+  "client_id": "106682574228657504140",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-mj72u%40music-forest-abigo.iam.gserviceaccount.com"
+}

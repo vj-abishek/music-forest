@@ -1,5 +1,12 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <Player />
 </template>
+<script>
+import Player from '../components/Player/Player.vue';
+
+export default {
+  components: {
+    Player,
+  },
+};
+</script>

@@ -1,0 +1,16 @@
+ <script>
+      // Your web app's Firebase configuration
+      var firebaseConfig = {
+        apiKey: 'AIzaSyAWwvT5mPsBAG0FyHMF-AINLYFQUkDjMic',
+        authDomain: 'music-forest-abigo.firebaseapp.com',
+        databaseURL: 'https://music-forest-abigo.firebaseio.com',
+        projectId: 'music-forest-abigo',
+        storageBucket: 'music-forest-abigo.appspot.com',
+        messagingSenderId: '742088421078',
+        appId: '1:742088421078:web:1eb01b45ba3c15bad96377',
+        measurementId: 'G-TB0E9KP19N'
+      }
+      // Initialize Firebase
+      firebase.initializeApp(firebaseConfig)
+      firebase.analytics()
+    </script>

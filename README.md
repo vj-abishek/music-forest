@@ -22,3 +22,5 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+#https://raw.githubusercontent.com/daneden/animate.css/master/animate.css
