@@ -13,11 +13,20 @@
         </a>
       </div>
       <div class="side-crop wow fadeIn" data-wow-delay="1s">
-        <img
+        <!-- <img
           src=".././Elisha/2-min.webp"
           alt="music-forest website | Remake songs by elisha kumar"
-          style="height:auto;width:500px"
-        />
+
+        />-->
+        <picture style="height:auto;width:500px">
+          <source media="(min-width: 650px)" srcset=".././Elisha/2-min(2).webp" />
+          <source media="(min-width: 465px)" srcset=".././Elisha/2-min.webp" />
+          <img
+            src=".././Elisha/2-min.webp"
+            alt="music-forest website | Remake songs by elisha kumar"
+            style="height:auto;width:500px"
+          />
+        </picture>
       </div>
     </header>
     <Main />
