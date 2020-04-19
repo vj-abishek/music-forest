@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: music-forest.now.sh
+Token: a9845f94be32c836844f8169375faaae8553c379fb063ddbe439ee3091199c6b
