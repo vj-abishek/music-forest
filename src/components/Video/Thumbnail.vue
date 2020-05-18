@@ -32,12 +32,9 @@ export default {
   methods: {
     reduceMe: (data) => moment(data).from(),
     handleClick(e) {
-      console.log(e);
-
-      console.log(e.target.dataset.id);
       const click = e.target.dataset.id;
       const search = this.postsof.filter((id) => id.id === click);
-      console.log(search);
+
       localStorage.posts = JSON.stringify(search);
       window.location.href = '/video';
     },
