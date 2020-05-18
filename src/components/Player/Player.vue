@@ -29,9 +29,6 @@
         <small class="time">Uploaded - {{ reduceMe(datas[0].time) }}</small>
       </div>
     </div>
-    <br />
-
-    <a :href="datas[0].video" class="download" download>Download</a>
   </div>
 </template>
 <script>
@@ -113,7 +110,6 @@ export default {
   flex: 1;
   display: flex;
   background: #ebebeb;
-  width: 100%;
   font-size: 20px;
   height: auto;
   padding: 10px;
@@ -126,8 +122,9 @@ export default {
   font-family: 'Ubuntu', sans-serif;
 }
 .video-container {
-  position: fixed;
-  top: 50px;
+  /* top: 50px; */
+  margin-top: 50px;
+  min-width: 320px;
   width: 100%;
 }
 .time {

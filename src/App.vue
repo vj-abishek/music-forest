@@ -2,7 +2,7 @@
   <div>
     <nav class="nav-bar">
       <ul class="list-items">
-        <li on:click="handle">
+        <li @click="handle()">
           <span class="logo">Music</span>
           <span class="next-logo">Forest</span>
         </li>
@@ -42,6 +42,7 @@ nav a {
 .nav-bar {
   position: fixed;
   top: 0px;
+  box-sizing: border-box;
   width: 100%;
   height: 50px;
   box-shadow: 2px 5px 6px rgba(0, 0, 0, 0.1);
@@ -51,6 +52,7 @@ nav a {
 }
 .nav-bar ul {
   margin: 0px;
+  padding: 0px;
 }
 ul li {
   list-style-type: none;
@@ -72,7 +74,7 @@ ul li {
   margin-left: 70px;
 }
 .next-logo {
-  font-family: "Ubuntu", sans-serif;
+  font-family: 'Ubuntu', sans-serif;
   /* text-transform: uppercase; */
   color: rgb(16, 146, 81);
   font-size: 20px;
