@@ -24,7 +24,6 @@ import moment from 'moment';
 export default {
   props: ['posts'],
   data() {
-    console.log('Hi there', this.posts);
     return {
       postsof: this.posts,
     };
@@ -41,7 +40,6 @@ export default {
   },
   watch: {
     posts(newVal) {
-      console.log(newVal);
       this.postsof = newVal;
     },
   },
